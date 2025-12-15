@@ -1,0 +1,17 @@
+# Binary files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*.woff
+*.woff2
+*.ttf
+*.eot
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
